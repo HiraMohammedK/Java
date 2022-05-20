@@ -13,5 +13,6 @@ public class Main
 	    
 	    sum=a+b;
 		System.out.println("Sum= "+sum);
+		input.close();
 	}
 }
